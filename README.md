@@ -10,3 +10,7 @@
   * interates over line
   * dict, list, set
   * line.split, set.update
+
+
+3. Hangman game - [hangman.py](https://github.com/psrozek/python-training/blob/main/hangman.py)
+  * random_word module
