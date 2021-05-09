@@ -23,6 +23,8 @@ while not game_over:
     if ans == "quit":
         print("Thanks for playing")
         game_over = True
+    elif len(ans) > 1:
+        print("Please type a single letter.")
     elif ans in word and ans not in guessed:
         print("You guessed correctly!")
         guessed.append(ans)
