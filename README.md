@@ -1,4 +1,4 @@
-## Learning Python Programs
+## Python Training Programs
 
 1. Number guessing game - [number_guessing_game.py](https://github.com/psrozek/python-training/blob/main/number_guessing_game.py)
   * random.randint: 0-100
